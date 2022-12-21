@@ -6,9 +6,10 @@ Mata Kuliah 	: Dasar Pemrograman
 <br>Jurusan		: [Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 ## Deskripsi Umum
-<br>
+<br>Program ini menampilkan codingan array 2 dimensi, yaitu transpose nilai matriks dan nilai yang habis dibagi 3,5 dan 7<br>
 
 ## Source Code
+
 ```
     #include <iostream>
     #include <conio.h>
@@ -68,4 +69,4 @@ Mata Kuliah 	: Dasar Pemrograman
  ```   
 
  ## Output
-    <img src="uas.png"/>
+ <img src = "uas.png"/>
