@@ -68,4 +68,4 @@ Mata Kuliah 	: Dasar Pemrograman
  ```   
 
  ## Output
-    <img src=""/>
+    <img src="uas.png"/>
