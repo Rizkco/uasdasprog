@@ -67,5 +67,5 @@ Mata Kuliah 	: Dasar Pemrograman
     }
  ```   
 
-    ## Output
-    <img src="uas.png"/>
+ ## Output
+        <img src="uas.png"/>
