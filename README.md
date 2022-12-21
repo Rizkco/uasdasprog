@@ -9,6 +9,7 @@ Mata Kuliah 	: Dasar Pemrograman
 <br>
 
 ## Source Code
+```
     #include <iostream>
     #include <conio.h>
     #include <iomanip>
@@ -64,6 +65,7 @@ Mata Kuliah 	: Dasar Pemrograman
 
         return 0;
     }
+ ```   
 
     ## Output
     <img src="uas.png"/>
