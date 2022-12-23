@@ -1,12 +1,13 @@
 
 # Ujian Akhir Semester 
-Mata Kuliah 	: Dasar Pemrograman
+<br>Mata Kuliah 	: Dasar Pemrograman
 <br>Nama		: Rizkco Fauzan Adhim
 <br>NIM		:	1227050117
 <br>Jurusan		: [Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 ## Deskripsi Umum
-<br>Program ini menampilkan codingan array 2 dimensi, yaitu transpose nilai matriks dan nilai yang habis dibagi 3,5 dan 7<br>
+<br>Array dua dimensi adalah array yang terdiri dari n buah baris dan m buah kolom, atau array dua dimensi juga biasa disebut sebagai array yang mempunyai dua subskrip, yaitu baris dan kolom. Bentuknya dapat sobat bayangkan seperti matriks atau tabel. dimana indeks pertama menunjukan baris dan indeks kedua menunjukan kolom.
+Pada program ini akan ditampilkan contoh codingan array 2 dimensi dan juga hasil outputnya, yaitu transpose nilai matriks dan nilai yang habis dibagi 3,5 dan 7<br>
 
 ## Source Code
 
